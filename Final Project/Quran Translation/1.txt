@@ -1,24 +1,24 @@
-Make it with this APIs:
+# Make it with this APIs:
 
-1, Get a complete Quran edition
+# 1, Get a complete Quran edition
 http://api.alquran.cloud/v1/quran/en.asad
 http://api.alquran.cloud/v1/quran/quran-uthmani
 http://api.alquran.cloud/v1/quran/ar.alafasy
 
-2, Get a Juz of the Quran
+# 2, Get a Juz of the Quran
 http://api.alquran.cloud/v1/juz/30/en.asad
 http://api.alquran.cloud/v1/juz/30/quran-uthmani
 http://api.alquran.cloud/v1/juz/1/quran-uthmani?offset=3&limit=10
 
-3, Get a Surah of the Quran
+# 3, Get a Surah of the Quran
 http://api.alquran.cloud/v1/surah/1?offset=1&limit=3
 
-4, Get a Page of the Quran
+# 4, Get a Page of the Quran
 http://api.alquran.cloud/v1/page/1/en.asad
 http://api.alquran.cloud/v1/page/1/quran-uthmani
 http://api.alquran.cloud/v1/page/1/quran-uthmani?offset=2&limit=2
 
-5, Audio by Ayah
+# 5, Audio by Ayah
 https://api.alquran.cloud/v1/edition/format/audio
 https://api.alquran.cloud/v1/surah/1/ar.alafasy
 https://cdn.islamic.network/quran/info/by-ayah/info.txt
@@ -26,7 +26,7 @@ https://cdn.islamic.network/quran/info/by-ayah/info.json
 https://cdn.islamic.network/quran/audio/128/ar.alafasy/262.mp3
 https://cdn.islamic.network/quran/audio/64/ar.alafasy/262.mp3
 
-6, Audio by Surah
+# 6, Audio by Surah
 https://cdn.islamic.network/quran/info/by-surah/info.json
 https://cdn.islamic.network/quran/info/by-surah/info.json
 https://cdn.islamic.network/quran/info/by-surah/info.json
