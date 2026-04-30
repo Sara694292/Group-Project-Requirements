@@ -1,4 +1,5 @@
 Make it with this APIs:
+
 1, Get a complete Quran edition
 http://api.alquran.cloud/v1/quran/en.asad
 http://api.alquran.cloud/v1/quran/quran-uthmani
