@@ -1,0 +1,66 @@
+hijri_calender
+dart pub add hijri_calendar
+flutter pub add hijri_calendar
+
+audioplayers
+flutter pub add audioplayers
+
+share_plus
+flutter pub add share_plus
+
+http
+dart pub add http
+flutter pub add http
+
+services
+flutter pub add services
+
+shared_preferences
+flutter pub add shared_preferences
+
+
+url_launcher
+flutter pub add url_launcher
+
+
+provider
+flutter pub add provider
+
+
+dart converter
+dart pub add converter
+flutter pub add converter
+
+
+google_fonts
+flutter pub add google_fonts
+
+
+path_provider
+flutter pub add path_provider
+
+
+ flutter_html
+flutter pub add flutter_html
+
+
+arabic_font
+flutter pub add arabic_font
+
+
+convert
+dart pub add convert
+flutter pub add convert
+
+
+
+get
+flutter pub add get
+
+
+ just_audio
+flutter pub add just_audio
+
+
+easy_localization
+flutter pub add easy_localization
