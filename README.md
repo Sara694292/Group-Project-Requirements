@@ -1,5 +1,5 @@
 # Group-Project-Requirements
-# "This application is a comprehensive and advanced resource for reading and listening to the Holy Quran. It is specifically designed so that users can benefit from it in the easiest way possible and access all features without any issues."
+"This application is a comprehensive and advanced resource for reading and listening to the Holy Quran. It is specifically designed so that users can benefit from it in the easiest way possible and access all features without any issues."
 
 # Image 1
 <img width="664" height="312" alt="Image" src="https://github.com/user-attachments/assets/9bfd06e7-fd69-43a6-b5ba-fb992ae71690" />
@@ -32,6 +32,7 @@
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/237932ad-123c-48a3-a562-336f77f34ec3" />
 
 
-Video Guide About How to Use This Project...
+# Quran API Documentation Guide ...
+<img width="1364" height="624" alt="Image" src="https://github.com/user-attachments/assets/38ac93af-0ec1-4752-889b-84bc15d2adfd" />
 
 
