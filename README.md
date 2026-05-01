@@ -35,4 +35,6 @@
 # Quran API Documentation Guide ...
 <img width="1364" height="624" alt="Image" src="https://github.com/user-attachments/assets/38ac93af-0ec1-4752-889b-84bc15d2adfd" />
 
+https://github.com/user-attachments/assets/65e15b45-2912-4c8f-b0e2-dc02aec105dc
+
 
